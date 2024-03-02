@@ -4,8 +4,7 @@ You may have stumbled upon my GitHub page through my Discord, as that's where yo
 
 Fun fact about me: I absolutely adore cats and spending hours coding away on my computer 🐱💻
 
-    へ
-（• ˕ •マ
+≽^•⩊•^≼
 <!---
 JavaAnna/JavaAnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
