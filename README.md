@@ -2,7 +2,7 @@ My name is Anna and I am excited to learn all things Javascript, CSS, and HTML, 
 
 You may have stumbled upon my GitHub page through my Discord, as that's where you can often find me hanging out. However if you don't have me added I am not available for direct contact :(
 
-Fun fact about me: I absolutely adore cats and spending hours coding away on my computer 🐱💻
+Fun fact about me: I am a H4CK3R....🐱💻
 
 ≽^•⩊•^≼
 <!---
