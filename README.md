@@ -1,4 +1,4 @@
-My name is Anna, I'm self-studying at the moment to become a Pentester. 
+My name is Anna, I'm studying at the moment to become a Pentester. 
 I am active on Hack The Box and TryHackMe, as well as researching OSINT and learning Digital Forensics as a hobby. 
 
 I plan to write several articles in the future on Medium and my LinkedIn about everything I learn. 
